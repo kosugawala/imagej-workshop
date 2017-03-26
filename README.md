@@ -1,10 +1,18 @@
-## 生命科学研究のための画像解析勉強会
+## 概要
 
-You can use the [editor on GitHub](https://github.com/kosugawala/imagej-workshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+生命科学研究における、デジタル画像解析・画像処理を学ぶ勉強会を行います。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### タイムテーブル
 
-### Markdown
+3月29日（水） | @E6セミナー室
+------------ | -------------
+15:00 - 15:10 | イントロダクション
+15:10 - 15:40 | デジタル画像の基礎知識
+15:40 - 15:45 | 休憩
+15:45 - 16:30 | ImageJ (Fiji) の基本機能
+16:30 - 16:40 | 休憩
+16:40 - 17:50 | ImageJを用いた画像解析の実際
+17:50 - 18:00 | まとめ
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
