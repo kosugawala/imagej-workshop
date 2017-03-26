@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 生命科学研究のための画像解析勉強会
 
 You can use the [editor on GitHub](https://github.com/kosugawala/imagej-workshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
